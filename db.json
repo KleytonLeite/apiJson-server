@@ -1,0 +1,39 @@
+{
+  "user": [
+      {
+        "id": 1,
+        "firstName": "kleyton",
+        "lastName": "leite",
+        "user": "kleytonleite",
+        "cpf": "03214700448",
+        "address": "Rua antonio valdevino costa",
+        "number": "280",
+        "cep": "50721775",
+        "country": "brasil",
+        "uf": "PE",
+        "city": "recife",
+        "district": "cordeiro",
+        "password":"12345",
+        "avatar": "https://avatars.githubusercontent.com/u/27524850?s=460&u=3584e2bd6b16f8ac74f299a34a4da4432e369cd9&v=4",
+        "genre": "masculino",
+        "color": "branco",
+        "role":"admin"
+      }
+    ],
+
+  "product": [
+    {
+      "id": 1,
+      "name": "camisa",
+      "ref": "REF",
+      "cod": "ref-001",
+      "size": "p",
+      "family": "camisa",
+      "brand": "c&a",
+      "image": "media/shirt-1.jpg",
+      "price": 59.9,
+      "specialPrice": 29.9,
+      "color": "Preta"
+    }
+  ]
+}
